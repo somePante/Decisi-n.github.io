@@ -1,0 +1,38 @@
+body{
+    font-family: Verdana;
+    font-size: 1em;
+    background-color: hsl(51, 100%, 83%);
+
+}
+form{
+    width: 500px;
+padding: 25px;
+margin: 40px;
+border: hsl(60, 12%, 43%);
+border-radius:10px;
+background-color: white;
+
+
+
+
+    
+}
+input{
+    font-size: 1.5em;
+    box-sizing: content-box;
+    border-radius: 10px;
+    
+    
+}
+#button{
+    width: 80px;
+    background-color: rgb(208, 255, 216);
+      font-size: 1.5em;
+    box-sizing: content-box;
+    border-radius: 10px;
+    
+}
+#button:hover{
+    background-color: rgb(145, 219, 159);
+
+}
